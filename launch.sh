@@ -26,7 +26,7 @@ wget http://luarocks.org/releases/luarocks-2.2.2.tar.gz
  sudo luarocks install lanes
  sudo luarocks install Lua-cURL
  cd $home
- cd MegaNot
+ cd Ali-Aliraqe
   wget https://valtman.name/files/telegram-cli-1124
 mv telegram-cli-1124 tg
 chmod +x tg
